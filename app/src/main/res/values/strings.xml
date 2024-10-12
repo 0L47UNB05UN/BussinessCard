@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Ikupolati Joshua Olatunbosun</string>
+    <string name="business">Android Developer Extraordinaire</string>
+    <string name="tel">+234 903 424 3058</string>
+    <string name="email">ikupolatiolatunbosun@gmail.com</string>
+    <string name="social">j05h@facebook.com</string>
+</resources>
